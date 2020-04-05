@@ -1,3 +1,15 @@
 = Su Asciidoc(tor)
 
 Da riempire, se *funziona*.
+
+WARNING: non sempre funziona
+
+.tabella
+[cols=2*]
+|===
+|col 1
+|val 1
+
+|col2
+|val 2
+|===
