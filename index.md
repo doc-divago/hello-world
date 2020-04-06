@@ -2,4 +2,4 @@
 
 Sto imparando a usare _Github_ e Asciidoctor.
 
-Questa è la mia [bio](./bio.html)
+Questa è la mia [bio](bio.html)
