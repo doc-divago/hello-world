@@ -1,5 +1,5 @@
 = Hello, world!
 
-Sto imparando a usare _Github_ e Asciidoctor.
+Sto imparando a usare _Github_ e Asciidoctor, tra le altre cose.
 
 Questa è la mia bio.html[bio]
